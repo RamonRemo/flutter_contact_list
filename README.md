@@ -1,16 +1,36 @@
-# projeto6_agenda_de_contatos
+# Contact List in Flutter
 
-A new Flutter project.
+## A Simple Contact List who Can: Create
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="/img/initial.png" height="400" width="200" >
+  <img src="/img/create.png" height="400" width="200" >
+  <img src="/img/created.png" height="400" width="200" >
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Edit
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+  <img src="/img/edit.gif">
+  <img src="/img/edit2.gif">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Delete
+
+<p align="center">
+  <img src="/img/exclude.gif">
+</p>
+
+## Dial
+
+<p align="center">
+  <img src="/img/ligando.gif">
+</p>
+
+## Order
+
+<p align="center">
+  <img src="/img/order.gif">
+</p>
+
